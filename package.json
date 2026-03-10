@@ -1,0 +1,16 @@
+{
+  "name": "stash",
+  "version": "0.1.0",
+  "description": "Stash is a gamified household inventory management app that turns the tedious task of tracking possessions into an engaging collecting experience. Users scan items to build their digital 'stash', earn",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "ai",
+    "saas",
+    "the-firm"
+  ],
+  "author": "The Firm — AI Venture Studio",
+  "license": "MIT"
+}
